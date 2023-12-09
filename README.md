@@ -11,7 +11,7 @@
 
 
 
-`![cisco](https://github.com/smabramov/Disaster-recovery-Keepalived/blob/5b9148aa2d81dd8e56c36d62ecf87c6b843f1a42/img/cisco.png)`
+![cisco](https://github.com/smabramov/Disaster-recovery-Keepalived/blob/5b9148aa2d81dd8e56c36d62ecf87c6b843f1a42/img/cisco.png)
 
 
 ---
@@ -28,11 +28,11 @@
 
 
 
-`![nginx.sh](https://github.com/smabramov/Disaster-recovery-Keepalived/blob/5b9148aa2d81dd8e56c36d62ecf87c6b843f1a42/img/nginx.sh)`
-`![index](https://github.com/smabramov/Disaster-recovery-Keepalived/blob/5b9148aa2d81dd8e56c36d62ecf87c6b843f1a42/img/index.png)`
-`![status](https://github.com/smabramov/Disaster-recovery-Keepalived/blob/5b9148aa2d81dd8e56c36d62ecf87c6b843f1a42/img/status.png)`
-`![192.168.1.7](https://github.com/smabramov/Disaster-recovery-Keepalived/blob/5b9148aa2d81dd8e56c36d62ecf87c6b843f1a42/img/192.168.1.7.png)`
-`![192.168.1.4](https://github.com/smabramov/Disaster-recovery-Keepalived/blob/5b9148aa2d81dd8e56c36d62ecf87c6b843f1a42/img/192.168.1.4.png)`
+![nginx.sh](https://github.com/smabramov/Disaster-recovery-Keepalived/blob/5b9148aa2d81dd8e56c36d62ecf87c6b843f1a42/img/nginx.sh)
+![index](https://github.com/smabramov/Disaster-recovery-Keepalived/blob/5b9148aa2d81dd8e56c36d62ecf87c6b843f1a42/img/index.png)
+![status](https://github.com/smabramov/Disaster-recovery-Keepalived/blob/5b9148aa2d81dd8e56c36d62ecf87c6b843f1a42/img/status.png)
+![192.168.1.7](https://github.com/smabramov/Disaster-recovery-Keepalived/blob/5b9148aa2d81dd8e56c36d62ecf87c6b843f1a42/img/192.168.1.7.png)
+![192.168.1.4](https://github.com/smabramov/Disaster-recovery-Keepalived/blob/5b9148aa2d81dd8e56c36d62ecf87c6b843f1a42/img/192.168.1.4.png)
 
 
 ---
